@@ -23,4 +23,4 @@ profile-settings-ui lets users update account details and privacy preferences. U
 ## Author
 Andrew Hueston
 ## Live Demo 
-[https://andhues.github.io/checkout-redesign/](https://andhues.github.io/checkout-redesign/)
+(https://andhues.github.io/profile-settings-ui/)(https://andhues.github.io/profile-settings-ui/)/]
